@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Ayush Vishwakarma</h1>
 <h3 align="center">A passionate frontend developer and coder from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushvishwakarma04&label=Profile%20views&color=0e75b6&style=flat" alt="ayushvishwakarma04" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushvishwakarma04&label=Profile%20views&color=0e75b6&style=flat" alt="ayushvishwakarma04" /> </p> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushvishwakarma04" alt="ayushvishwakarma04" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **My portfolio webpage**
+[![An image of @ayushvishwakarma04's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayushvishwakarma04)](https://holopin.io/@ayushvishwakarma04)
 
-- 🌱 I’m currently learning **MERN Stack and DSA**
+- 🔭 I’m currently working on **Open Source**
 
-- 💬 Ask me about **HTML,CSS,JS**
+- 🌱 I’m currently learning **AWS**
+
+- 💬 Ask me about **HTML,CSS,JS,MERN,PYTHON,FASTAPI**
 
 - 📫 How to reach me **ayushvishwakarma9625@gmail.com**
 
