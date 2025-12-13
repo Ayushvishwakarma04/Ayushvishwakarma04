@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushvishwakarma04" alt="ayushvishwakarma04" /></a> </p> -->
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 
 [![An image of @ayushvishwakarma04's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayushvishwakarma04)](https://holopin.io/@ayushvishwakarma04)
 
@@ -36,5 +36,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushvishwakarma04&show_icons=true&locale=en&layout=compact" alt="ayushvishwakarma04" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushvishwakarma04&show_icons=true&locale=en" alt="ayushvishwakarma04" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushvishwakarma04&" alt="ayushvishwakarma04" /></p>
+<p align="center">
+  <img src="https://github.com/Ayushvishwakarma04/Ayushvishwakarma04/blob/output/github-snake-dark.svg" />
+</p>
