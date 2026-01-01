@@ -26,7 +26,7 @@
 <a href="https://linkedin.com/in/ayush vishwakarma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush vishwakarma" height="30" width="40" /></a>
 <a href="https://instagram.com/its_ayush_v__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_ayush_v__" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ayushvishwakarm4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ayushvishwakarm4" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ayush_vish04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ayush_vish04" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/ayushvishwakarma04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ayush_vish04" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ayushvishwakarma04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayushvishwakarma04" height="30" width="40" /></a>
 </p>
 
